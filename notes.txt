@@ -1,0 +1,3 @@
+ISSUE: making the sidebar items a dropdown
+
+Approach: follow I hatetomato collapsible component!
